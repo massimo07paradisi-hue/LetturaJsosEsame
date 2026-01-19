@@ -1,0 +1,6 @@
+[
+  { "tipo": "tiro_libero", "esito": "successo", "giocatore": "G1" },
+  { "tipo": "tiro_da_3",   "esito": "fallito",  "giocatore": "G2" },
+  { "tipo": "fallo",       "esito": "successo", "giocatore": "G1" },
+  { "tipo": "palla_rubata","esito": "successo", "giocatore": "G3" }
+]
